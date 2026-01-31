@@ -24,7 +24,7 @@ Built on **LangGraph**, the system employs a **Cyclic ReAct Architecture**. If t
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Built on **LangGraph**, the system employs a **Cyclic ReAct Architecture**. If t
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 This project is optimized for **Google Colab** (T4 GPU Runtime).
 
