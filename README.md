@@ -15,7 +15,7 @@ Unlike standard LLMs that spoil the answer, DSA-Coach follows a strict **"Hint-F
 * **Syntax Errors:** Pointed out immediately.
 * **Logic Errors:** The agent compares the student's logic to the retrieved documentation and asks leading questions (e.g., *"Does a standard Queue guarantee order in a weighted graph?"*).
 
-### 3.  Stateful Agentic Reasoning (LangGraph)
+### 3.  Stateful Agentic Reasoning
 Built on **LangGraph**, the system employs a **Cyclic ReAct Architecture**. If the agent retrieves irrelevant notes, it doesn't hallucinate; it "loops back," refines its search query, and tries again until it finds the correct algorithmic pattern.
 
 ### 4.  High-Precision Retrieval
